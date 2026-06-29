@@ -1,8 +1,8 @@
 {
-  "name": "explain-html",
-  "displayName": "Explain as HTML",
-  "version": "1.0.0",
-  "description": "Generate beautiful dark-theme HTML explanations and open them in the browser instead of dumping walls of text in the terminal.",
+  "name": "tetsu-skills",
+  "displayName": "Tetsu Skills",
+  "version": "1.1.0",
+  "description": "A collection of Claude Code skills by tetsuro.",
   "author": {
     "name": "tetsuro",
     "email": "tetsu.ismt@gmail.com"
