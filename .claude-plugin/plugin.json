@@ -1,0 +1,12 @@
+{
+  "name": "explain-html",
+  "displayName": "Explain as HTML",
+  "version": "1.0.0",
+  "description": "Generate beautiful dark-theme HTML explanations and open them in the browser instead of dumping walls of text in the terminal.",
+  "author": {
+    "name": "tetsuro",
+    "email": "tetsu.ismt@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["explain", "html", "visualization", "dark-theme"]
+}
