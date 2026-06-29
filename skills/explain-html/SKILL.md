@@ -1,6 +1,7 @@
 ---
 name: explain-html
-description: Generate a beautiful dark-theme HTML explanation and open it in the browser. Use this skill whenever: the user uses "explain" in their request (e.g., "explain this architecture", "explain how X works", "explain hogehoge"); you are presenting an implementation plan in plan mode; you are about to produce a long complex response that would fill 30+ terminal lines; or the user asks to "show as HTML", "open in browser", or "read as HTML". When in doubt — if structure, diagrams, or visual hierarchy would make the content clearer — use this skill instead of dumping text into the terminal.
+description: |-
+  Generate a beautiful dark-theme HTML explanation and open it in the browser. Use this skill whenever: the user uses "explain" in their request (e.g., "explain this architecture", "explain how X works"); you are presenting an implementation plan in plan mode; you are about to produce a long complex response that would fill 30+ terminal lines; or the user asks to "show as HTML", "open in browser", or "read as HTML". When in doubt -- if structure, diagrams, or visual hierarchy would make the content clearer -- use this skill instead of dumping text into the terminal.
 ---
 
 ## What this skill does
