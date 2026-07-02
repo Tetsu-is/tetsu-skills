@@ -5,7 +5,8 @@ A collection of Claude Code skills by tetsuro.
 ## Install
 
 ```bash
-claude plugin install gh:Tetsu-is/tetsu-skills
+claude plugin marketplace add Tetsu-is/tetsu-skills
+claude plugin install tetsu-skills
 ```
 
 ## Skills
